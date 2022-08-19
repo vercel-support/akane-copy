@@ -1,4 +1,4 @@
-import { sveltekit } from '@sveltejs/kit/vite';
+import { sveltekit } from '@sveltejs/kit/node_modules/vite';
 
 /** @type {import('vite').UserConfig} */
 const config = {
